@@ -20,32 +20,32 @@ Este formulário tem como objetivo coletar informações sobre como o trabalho r
 - ( ) Serviços
 - ( ) Outros
 
-## QG4. Em que momento sua empresa adotou o trabalho remoto
+---
+
+## Seção: Políticas de Trabalho Remoto
+### QG4. Em que momento sua empresa adotou o trabalho remoto
 - ( ) Antes da pandemia  
 - ( ) Durante a pandemia
 - ( ) Após a pandemia
 
 ---
 
-## QG5. Durante o trabalho remoro, o esforço necessário para gerir conflitos entre funcionários  
+## Seção: Experiência com o Trabalho Remoto
+### QG5. Durante o trabalho remoro, o esforço necessário para gerir conflitos entre funcionários  
 - ( ) Aumentou muito  
 - ( ) Aumentou um pouco
 - ( ) Não aumentou nem diminuiu
 - ( ) Diminuiu um pouco
 - ( ) Diminuiu muito
 
----
-
-## QG6. Durante o trabalho remoto, o esforço necessário para gerir a colaboração entre os funcionários
+### QG6. Durante o trabalho remoto, o esforço necessário para gerir a colaboração entre os funcionários
 - ( ) Aumentou muito  
 - ( ) Aumentou um pouco
 - ( ) Não aumentou nem diminuiu
 - ( ) Diminuiu um pouco
 - ( ) Diminuiu muito
 
----
-
-## QG7. Como você classificaria a produtividade geral da sua equipe dutante o trabalho remoto?
+### QG7. Como você classificaria a produtividade geral da sua equipe dutante o trabalho remoto?
 - ( ) Muito alta  
 - ( ) Alta
 - ( ) Média
@@ -54,7 +54,8 @@ Este formulário tem como objetivo coletar informações sobre como o trabalho r
 
 ---
 
-## QG8. QUais ferramentas de comunicação sua empresa utilizou/utiliza durante o trabalho remoto? (Selecione todas que se aplicam)
+## Seção: Tecnologas e Ferramentas utilizadas
+### QG8. QUais ferramentas de comunicação sua empresa utilizou/utiliza durante o trabalho remoto? (Selecione todas que se aplicam)
 - [ ] Microsoft Teams
 - [ ] Slack
 - [ ] Zoom
@@ -64,18 +65,14 @@ Este formulário tem como objetivo coletar informações sobre como o trabalho r
 - [ ] Discord
 - [ ] Outros
 
----
-
-## QG9. Quais ferramentas de colaboração e compartilhamento de arquivos sua empresa utilizou/utiliza? (Selecione todas que se aplicam)
+### QG9. Quais ferramentas de colaboração e compartilhamento de arquivos sua empresa utilizou/utiliza? (Selecione todas que se aplicam)
 - [ ] Google Drive
 - [ ] Microsoft OneDrive
 - [ ] Dropbox
 - [ ] SharePoint
 - [ ] Outros
 
----
-
-## QG10. Quais ferramentas de gestão de projetos você utilizou/utiliza? (Selecione todas que se aplicam)
+### QG10. Quais ferramentas de gestão de projetos você utilizou/utiliza? (Selecione todas que se aplicam)
 - [ ] Jira
 - [ ] Trello
 - [ ] Asana
@@ -83,9 +80,7 @@ Este formulário tem como objetivo coletar informações sobre como o trabalho r
 - [ ] Microsoft Project
 - [ ] Outros
 
----
-
-## QG11. Quais ferramentas você utilizou/utiliza para gestão de tarefas e produtividade? (Selecione todas que se aplicam)
+### QG11. Quais ferramentas você utilizou/utiliza para gestão de tarefas e produtividade? (Selecione todas que se aplicam)
 - [ ] Todoist
 - [ ] Microsoft To Do
 - [ ] ClickUp
@@ -94,7 +89,8 @@ Este formulário tem como objetivo coletar informações sobre como o trabalho r
 
 ---
 
-## QG12. Quais incentivos sua empresa ofereceu para facilitar o trabalho remoto? (Selecione todas que se aplicam)
+## Seção: Incentivos e Benefícios
+### QG12. Quais incentivos sua empresa ofereceu para facilitar o trabalho remoto? (Selecione todas que se aplicam)
 - [ ] Flexibilidade no horário de trabalho
 - [ ] Implementação de ferramentas de comunicação
 - [ ] Happy hour virtual
@@ -102,9 +98,7 @@ Este formulário tem como objetivo coletar informações sobre como o trabalho r
 - [ ] Bônus/prêmios
 - [ ] nenhum incentivo
 
----
-
-## QG13. Quais foram os principais benefícios observados pela sua empresa com a adoção do trabalho remoto? (Selecione todas que se aplicam)
+### QG13. Quais foram os principais benefícios observados pela sua empresa com a adoção do trabalho remoto? (Selecione todas que se aplicam)
 - [ ] Maior flexibilidade de horários
 - [ ] Redução de custos operacionais
 - [ ] Aumento na satisfação dos funcionários
@@ -114,14 +108,13 @@ Este formulário tem como objetivo coletar informações sobre como o trabalho r
 
 ---
 
-## QG14. Quais foram os principais desafios que sua empresa enfrentou com o trabalho remoto? (Selecione todas que se aplicam)
+## Seção: Desafios e Preparações Finais
+### QG14. Quais foram os principais desafios que sua empresa enfrentou com o trabalho remoto? (Selecione todas que se aplicam)
 - [ ] Conexão de internet instável
 - [ ] Ferramentas de comunicação inefizaces
 - [ ] Isolamento social dos funcionários
 - [ ] Dificuldade em manter a cultura organizacional
 - [ ] Outros
-
----
 
 ## QG15. Sua empresa está preparada para suportar o trabalho remoto a longo prazo?
 - ( ) Sim
@@ -130,10 +123,9 @@ Este formulário tem como objetivo coletar informações sobre como o trabalho r
 
 ---
 
+## Seção: Considerações Finais
 ## QG16. Quais melhorias sua empresa planeja implementar para otimizar o trabalho remoto?
 (resposta aberta)
-
----
 
 ## QG17. Há mais alguma consideração ou sugestão que você gostaria de compartilhar sobre a experiência de trabalho remoto em sua empresa?
 (resposta aberta)
