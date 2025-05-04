@@ -116,7 +116,7 @@ Este formulário tem como objetivo coletar informações sobre como o trabalho r
 - [ ] Dificuldade em manter a cultura organizacional
 - [ ] Outros
 
-## QG15. Sua empresa está preparada para suportar o trabalho remoto a longo prazo?
+### QG15. Sua empresa está preparada para suportar o trabalho remoto a longo prazo?
 - ( ) Sim
 - ( ) Não
 - ( ) Não sei
@@ -124,10 +124,10 @@ Este formulário tem como objetivo coletar informações sobre como o trabalho r
 ---
 
 ## Seção: Considerações Finais
-## QG16. Quais melhorias sua empresa planeja implementar para otimizar o trabalho remoto?
+### QG16. Quais melhorias sua empresa planeja implementar para otimizar o trabalho remoto?
 (resposta aberta)
 
-## QG17. Há mais alguma consideração ou sugestão que você gostaria de compartilhar sobre a experiência de trabalho remoto em sua empresa?
+### QG17. Há mais alguma consideração ou sugestão que você gostaria de compartilhar sobre a experiência de trabalho remoto em sua empresa?
 (resposta aberta)
 
 ---
