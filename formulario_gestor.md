@@ -8,14 +8,10 @@ Este formulário tem como objetivo coletar informações sobre como o trabalho r
 ### QG1. Nome da Empresa
 (resposta aberta)
 
----
-
 ### QG2. Qual o porte da sua empresa?
 - [ ] Pequena empresa (1 a 49 funcionários)
 - [ ] Média empresa (50 a 200 funcionários)
 - [ ] Grande empresa (mais de 200 funcionários)
-
----
 
 ### QG3. Qual o ramo de atuação da empresa?
 - ( ) Tecnologia da Informação  
@@ -23,8 +19,6 @@ Este formulário tem como objetivo coletar informações sobre como o trabalho r
 - ( ) Comércio
 - ( ) Serviços
 - ( ) Outros
-
----
 
 ## QG4. Em que momento sua empresa adotou o trabalho remoto
 - ( ) Antes da pandemia  
