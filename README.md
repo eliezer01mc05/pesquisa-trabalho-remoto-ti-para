@@ -14,8 +14,8 @@ Este repositório contém os instrumentos de coleta utilizados na pesquisa de me
 
 ## 📝 Questionários da Pesquisa
 
-- [📋 Questionário para Gestores](formulario_gestor.md)
-- [🧑‍💻 Questionário para Colaboradores](formulario_colaborador.md)
+- [📋 Questionário para Gestores](questionario-gestor.md)
+- [🧑‍💻 Questionário para Colaboradores](questionario-colaborador.md)
 
 ---
 
