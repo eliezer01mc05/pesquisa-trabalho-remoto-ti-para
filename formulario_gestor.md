@@ -29,3 +29,10 @@ Este formulário tem como objetivo coletar informações sobre como o trabalho r
 - ( ) Antes da pandemia  
 - ( ) Durante a pandemia
 - ( ) Após a pandemia
+
+## 5. Sua empresa adotou o trabalho remoto durante a pandemia?  
+- ( ) Sim  
+- ( ) Parcialmente  
+- ( ) Não  
+
+---
