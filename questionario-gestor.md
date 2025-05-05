@@ -96,7 +96,7 @@ Este formulário tem como objetivo coletar informações sobre como o trabalho r
 - [ ] Happy hour virtual
 - [ ] Pausas virtuais
 - [ ] Bônus/prêmios
-- [ ] nenhum incentivo
+- [ ] Nenhum incentivo
 
 ### QG13. Quais foram os principais benefícios observados pela sua empresa com a adoção do trabalho remoto? (Selecione todas que se aplicam)
 - [ ] Maior flexibilidade de horários
