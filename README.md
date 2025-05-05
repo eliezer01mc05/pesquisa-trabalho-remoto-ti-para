@@ -8,7 +8,7 @@ Este repositório contém os instrumentos de coleta utilizados na pesquisa de me
 - **Discente:** Eliezer Miranda Coelho
 - **Orientador:** Prof. Dr. Carlos dos Santos Portela
 - **Coorientador:** Prof. Dr. Rodrigo Lisbôa Pereira
-- **Título da Dissertação:** *Trabalho Remoto no Pós-Pandemia: Benefícios e Desafios no Setor de TI doEstado do Pará*
+- **Título da Dissertação:** *Trabalho Remoto no Pós-Pandemia: Benefícios e Desafios no Setor de TI do Estado do Pará*
 
 ---
 
